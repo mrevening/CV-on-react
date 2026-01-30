@@ -162,6 +162,30 @@
                     "sectionName": "Work Experience",
                     "elements": [
                         {
+                            "key": "299b32993bf147bd8f7f3dca1c9b70e3",
+                            "componentName": "sectionEntry",
+                            "title": "Medius",
+                            "description": "AP automation solution",
+                            "date": "VII 2022 - Now",
+                            "url": "",
+                            "position": "React + .NET Developer",
+                            "experience": "(3,5 years)",
+                            "stack": "React, TypeScript, Knockout, .NET Framework, Microsoft SQL Server",
+                            "tasks":
+                            [
+                                {
+                                    "key": "ba40a2cce010494f863e78b6d78dc95d",
+                                    "componentName": "task",
+                                    "text": "Role: software developer"
+                                },
+                                {
+                                    "key": "2187ac86170e4db28de71c6dacd19ff7",
+                                    "componentName": "task",
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, React, TypeScript"
+                                }
+                            ]
+                        },
+                        {
                             "key": "299b32993bf147bd8f7f3dca1c9b70e2",
                             "componentName": "sectionEntry",
                             "title": "KPMG",
@@ -275,6 +299,24 @@
                                     "componentName": "task",
                                     "text": "Merging internal invoices system to Comarch Optima accounting system"
                                 }
+                            ]
+                        },
+                        {
+                            "key": "b1e7cae58d4a4c20997e7e669d6d1b19a",
+                            "componentName": "sectionEntry",
+                            "title": "Capgemini",
+                            "description": "Technical support with French",
+                            "date": "XI 2016 - X 2018",
+                            "url": "",
+                            "position": "Customer service advisor",
+                            "experience": "(2 years)",
+                            "tasks":
+                            [
+                                {
+                                    "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
+                                    "componentName": "task",
+                                    "text": "Anserwing calls in English and French"
+                                }                             
                             ]
                         }
                     ]
