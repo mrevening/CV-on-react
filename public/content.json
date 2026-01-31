@@ -156,11 +156,11 @@
                             [
                                 {
                                     "componentName": "task",
-                                    "text": "Project: New Inbox. Role: lead frontend developer with React. Tasks: lead small frontend team, communicate with BA nad UX, create project from a scratch and integrate with existing solution."
+                                    "text": "New Inbox: Spearheaded the design and development of a modern React-based inbox, building the architecture from scratch, mentoring a small frontend team, and driving collaboration with business analysts and UX designers to deliver a seamless user experience integrated with legacy systems."
                                 },
                                 {
                                     "componentName": "task",
-                                    "text": "Project: Procurement. Role: .NET Developer with React. Tasks: build new functionalities"
+                                    "text": "Procurement: Enhanced procurement workflows by implementing robust .NET backend features and dynamic React interfaces, focusing on maintainability and scalability."
                                 },
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
@@ -184,7 +184,7 @@
                                 {
                                     "key": "ba40a2cce010494f863e78b6d78dc95d",
                                     "componentName": "task",
-                                    "text": "Project: Swiss Tax Calculator: Extending App which generate tax returns in Swiss cantons. Covering taxes business logic in graph structure"
+                                    "text": "Swiss Tax Calculator: Engineered complex tax calculation logic using graph-based structures, enabling accurate and flexible tax return generation for multiple Swiss cantons. Collaborated closely with domain experts to translate intricate business rules into scalable code."
                                 },
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
@@ -207,7 +207,7 @@
                                 {
                                     "key": "b48e0ff61eb7495f969d21cff078f163",
                                     "componentName": "task",
-                                    "text": "Project: Primetals. Tasks: Creating new functionalities in ironworks HMI tool - Web Application which manages steel production"
+                                    "text": "Primetals HMI: Developed and optimized new modules for a steel production management web application, focusing on real-time data visualization and user interaction for industrial operators. Ensured high reliability in mission-critical environments."
                                 },
                                 {
                                     "key": "59f11505367a41d1b81a7dfc11f61f00",
@@ -230,12 +230,12 @@
                                 {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
-                                    "text": "Project: Addvena. Tasks: Extend online pet food shop."
+                                    "text": "Addvena: Modernized and expanded the e-commerce platform for a pet food retailer, introducing new features and improving performance to enhance customer experience."
                                 },
                                 {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
-                                    "text": "Project: Oroox - Swiss metal industry company."
+                                    "text": "Oroox: Contributed to the digital transformation of a Swiss metal industry client by developing custom modules and integrating business processes into a unified web solution."
                                 },
                                   {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
@@ -257,7 +257,7 @@
                                 {
                                     "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
                                     "componentName": "task",
-                                    "text": "Project: Rolls-Royce. Tasks: Anserwing calls in French and English"
+                                    "text": "Rolls-Royce: Delivered bilingual technical support for Rolls-Royce, resolving complex issues for international clients and ensuring high customer satisfaction through effective communication in French and English."
                                 }                              
                             ]
                         }
