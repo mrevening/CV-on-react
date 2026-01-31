@@ -44,7 +44,7 @@
 
 .sectionEntry {
   margin-top: 5px;
-  margin-bottom: 40px;
+  margin-bottom: 0px;
 }
 
 .additionalInfo {
@@ -55,7 +55,7 @@
 
 .tasks {
   margin-top: 5px;
-  margin-left: 40px;
+  margin-left: 0px;
   font-stretch: condensed;
   font-size: smaller;
 }
