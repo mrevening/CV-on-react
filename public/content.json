@@ -191,7 +191,7 @@
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
                                     "componentName": "task",
-                                    "text": "Stack: React, TypeScript, .NET Core, Microsoft SQL Server"
+                                    "text": "Stack: React + TypeScript, .NET Core, Microsoft SQL Server"
                                 }
                             ]
                         },
@@ -215,7 +215,7 @@
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
                                     "componentName": "task",
-                                    "text": "Stack: .NET Framework, Microsoft SQL Server, TypeScript"
+                                    "text": "Stack: .NET Framework, Microsoft SQL Server, React"
                                 }
                             ]
                         },
