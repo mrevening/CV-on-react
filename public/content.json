@@ -116,7 +116,7 @@
                             "key": "ca18ce123c11449d83c437e0df0acbc8",
                             "componentName": "shortSectionEntry",
                             "title": "AGH",
-                            "description": "Master Degree in Biomedical Engineering (2010 - 2017)",
+                            "description": "M.Sc. in Biomedical Engineering (2010 - 2017)",
                             "url": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/"
                         },
                         {
@@ -183,11 +183,11 @@
                             [
                                 {
                                     "componentName": "task",
-                                    "text": "New Inbox: Spearheaded the design and development of a modern React-based inbox, building the architecture from scratch, mentoring a small frontend team, and driving collaboration with business analysts and UX designers to deliver a seamless user experience integrated with legacy systems."
+                                    "text": "New Inbox: Lead development of a React-based inbox integrated with legacy system, building the architecture from scratch, mentoring a small frontend team, collaborating with business analysts and UX designers."
                                 },
                                 {
                                     "componentName": "task",
-                                    "text": "Procurement: Enhanced procurement workflows by implementing robust .NET backend features and dynamic React interfaces, focusing on maintainability and scalability."
+                                    "text": "Procurement: Enhanced procuring workflows with .NET and React."
                                 },
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
@@ -211,7 +211,7 @@
                                 {
                                     "key": "ba40a2cce010494f863e78b6d78dc95d",
                                     "componentName": "task",
-                                    "text": "Swiss Tax Calculator: Engineered complex tax calculation logic using graph-based structures, enabling accurate and flexible tax return generation for multiple Swiss cantons. Collaborated closely with domain experts to translate intricate business rules into scalable code."
+                                    "text": "Swiss Tax Calculator: Engineered complex tax calculation logic using graph-based structures. Collaborated closely with domain experts."
                                 },
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
@@ -234,7 +234,7 @@
                                 {
                                     "key": "b48e0ff61eb7495f969d21cff078f163",
                                     "componentName": "task",
-                                    "text": "Primetals HMI: Developed and optimized new modules for a steel production management web application, focusing on real-time data visualization and user interaction for industrial operators. Ensured high reliability in mission-critical environments."
+                                    "text": "Primetals HMI: Developed new modules for a steel production management web application."
                                 },
                                 {
                                     "key": "59f11505367a41d1b81a7dfc11f61f00",
@@ -257,7 +257,7 @@
                                 {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
-                                    "text": "Addvena: Modernized and expanded the e-commerce platform for a pet food retailer, introducing new features and improving performance to enhance customer experience."
+                                    "text": "Addvena: Modernized and expanded the e-commerce platform for a pet food retailer, introducing new features and improving performance."
                                 },
                                 {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
@@ -284,7 +284,7 @@
                                 {
                                     "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
                                     "componentName": "task",
-                                    "text": "Rolls-Royce: Delivered bilingual technical support for Rolls-Royce, resolving complex issues for international clients and ensuring high customer satisfaction through effective communication in French and English."
+                                    "text": "Rolls-Royce: Delivered bilingual technical support in French and English. (Montreal, Canada)"
                                 }                              
                             ]
                         }
