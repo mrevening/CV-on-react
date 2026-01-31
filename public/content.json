@@ -108,6 +108,33 @@
                     ]
                 },
                 {
+                    "key": "a797cf3a7f7041e7ae643743838f4b65",
+                    "componentName": "section",
+                    "sectionName": "Education",
+                    "elements": [
+                        {
+                            "key": "ca18ce123c11449d83c437e0df0acbc8",
+                            "componentName": "shortSectionEntry",
+                            "title": "AGH",
+                            "description": "Master Degree in Biomedical Engineering (2010 - 2017)",
+                            "url": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/"
+                        },
+                        {
+                            "key": "ca18ce123c11449d83c437e0df0acbc9",
+                            "componentName": "shortSectionEntry",
+                            "title": "Specialization",
+                            "description": "Computer Science and Medical Electronics"
+                        },
+                        {
+                            "key": "ca18ce123c11449d83c437e0df0acbc7",
+                            "componentName": "shortSectionEntry",
+                            "title": "Thesis project - RejSM",
+                            "description": "Migrated the largest Polish multiple sclerosis database (PHP, MySQL) to WordPress",
+                            "url": "https://rejsm.agh.edu.pl/"
+                        }
+                    ]
+                },
+                {
                     "key": "f07a1cb604d543d7b51ad019cc31e8db",
                     "componentName": "section",
                     "sectionName": "Languages",
@@ -259,36 +286,6 @@
                                     "componentName": "task",
                                     "text": "Rolls-Royce: Delivered bilingual technical support for Rolls-Royce, resolving complex issues for international clients and ensuring high customer satisfaction through effective communication in French and English."
                                 }                              
-                            ]
-                        }
-                    ]
-                },
-                {
-                    "key": "a797cf3a7f7041e7ae643743838f4b65",
-                    "componentName": "section",
-                    "sectionName": "Education",
-                    "elements": [
-                        {
-                            "key": "ca18ce123c11449d83c437e0df0acbc8",
-                            "componentName": "sectionEntry",
-                            "title": "AGH",
-                            "description": "Master Degree in Biomedical Engineering",
-                            "date": "2010 - 2017",
-                            "url": "https://kandydaci.agh.edu.pl/studia/inzynieria-biomedyczna/",
-                            "tasks":
-                            [
-                                {
-                                    "key": "96fdd5bb8bf042018a0e8eb95949a726",
-                                    "componentName": "task",
-                                    "text": "Specialization in Computer Science and Medical Electronics"
-                                },
-                                {
-                                    "key": "10e06c50e64249f486deba7a63c61a3b",
-                                    "componentName": "task",
-                                    "title": "Thesis project - RejSM",
-                                    "titleUrl": "https://rejsm.agh.edu.pl/",
-                                    "text": "- migrate biggest polish multiple sclerosis database (PHP, MySQL) to WordPress"
-                                }
                             ]
                         }
                     ]
