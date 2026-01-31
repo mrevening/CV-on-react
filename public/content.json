@@ -178,7 +178,7 @@
                             [
                                 {
                                     "componentName": "task",
-                                    "text": "Medius is AP automation solution - In-house software with many customers worldwide, extended CI/CD pipelines, unit and e2e tests (Selenium, Playwright), Azure cloud resources, code quality checks, logs monitoring (Papertrail, Azure App Insights). Contains multiple modules: ERP integration, document management, workflow engine, Capture, Payment, Procurement, and it's own UI library."
+                                    "text": "Medius is an accounts payable (AP) automation solution, designed to efficiently manage invoice workflows for a global client base. It has extended CI/CD pipelines, unit and e2e tests (Selenium, Playwright), Azure cloud resources, code quality checks, logs monitoring (Papertrail, Azure App Insights). Contains multiple modules: ERP integration, document management, workflow engine, Capture, Payment, Procurement, and it's own UI library."
                                 },
                                 {
                                     "componentName": "task",
