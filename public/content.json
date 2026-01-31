@@ -60,61 +60,15 @@
                             "componentName": "shortSectionEntry",
                             "title": "Main Professional tools:"
                         },
+                                                {
+                            "key": "19b44cdee93846bf876a75fcd9586df1",
+                            "componentName": "shortSectionEntry",
+                            "description": "React / Typescript"
+                        },
                         {
                             "key": "19b44cdee93846bf876a75fcd9586df0",
                             "componentName": "shortSectionEntry",
-                            "description": "ASP.NET Framework"
-                        },
-                        {
-                            "key": "e015b4e5ca9a4f8684b01f1122d2bd52",
-                            "componentName": "shortSectionEntry",
-                            "description": "Microsoft SQL Server"
-                        },
-                        {
-                            "key": "492d14f6d5a54214ba00631596018cef",
-                            "componentName": "shortSectionEntry",
-                            "title": "Helping tools:"
-                        },
-                        {
-                            "key": "b17075244d5f464eaae0b00c9cb18afc",
-                            "componentName": "shortSectionEntry",
-                            "description": "Entity Framework"
-                        },
-                        {
-                            "key": "c0d6ba2a38da417697e4afc85d9a6fd4",
-                            "componentName": "shortSectionEntry",
-                            "description": "LINQ"
-                        },
-                        {
-                            "key": "8c55133734384ccebe75780e3ede04fe",
-                            "componentName": "shortSectionEntry",
-                            "description": "Git"
-                        },
-                        
-                        {
-                            "key": "5814fba798034beaa856d46eb04a8e49",
-                            "componentName": "shortSectionEntry",
-                            "title": "Home skilled:"
-                        },
-                        {
-                            "key": "8c55133734384ccebe75780e3ede04fe",
-                            "componentName": "shortSectionEntry",
-                            "description": "React/Redux"
-                        },
-                        {
-                            "key": "d657894e2740462994ee9114406bfb2b",
-                            "componentName": "shortSectionEntry",
-                            "title": "Used in the past"
-                        },
-                        {
-                            "key": "8e95d49f13e249e1a8e4246d51c6fb04",
-                            "componentName": "shortSectionEntry",
-                            "description": "LabVIEW"
-                        },
-                        {
-                            "key": "c6b03fb27a7145acb1e630a0bc5f6108",
-                            "componentName": "shortSectionEntry",
-                            "description": "WordPress"
+                            "description": ".NET / C#"
                         }
                     ]
                 },
@@ -134,12 +88,6 @@
                             "componentName": "language",
                             "language": "French",
                             "stars": 4
-                        },
-                        {
-                            "key": "c51efbfd9e1a497cadbbce38ea8086a6",
-                            "componentName": "language",
-                            "language": "Japanese",
-                            "stars": 1
                         }
                     ]
                 }
@@ -154,7 +102,7 @@
                     "componentName": "header",
                     "firstName" : "Dominik",
                     "lastName": "Wieczorek",
-                    "jobTitle": ".NET Developer"
+                    "jobTitle": "React + .NET Developer"
                 },
                 {
                     "key": "115cb59ddeac4a30a9ba734e0054893f",
@@ -170,7 +118,7 @@
                             "url": "",
                             "position": "React + .NET Developer",
                             "experience": "(3,5 years)",
-                            "stack": "React, TypeScript, Knockout, .NET Framework, Microsoft SQL Server",
+                            "stack": "React, TypeScript, .NET Core, Microsoft SQL Server",
                             "tasks":
                             [
                                 {
@@ -181,7 +129,7 @@
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
                                     "componentName": "task",
-                                    "text": "Stack: .NET Framework, Microsoft SQL Server, React, TypeScript"
+                                    "text": "Stack: React, TypeScript, .NET Core, Microsoft SQL Server"
                                 }
                             ]
                         },
@@ -211,21 +159,6 @@
                                     "key": "9f420ea7506146598f2c4f5c0720cb7a",
                                     "componentName": "task",
                                     "text": "Covering taxes business logic in graph structure"
-                                },
-                                {
-                                    "key": "e423590c35ea44f4b2c880c03802f338",
-                                    "componentName": "task",
-                                    "text": "Creating new sections based on business analytic's documentation"
-                                },
-                                {
-                                    "key": "171c44a67d394955aa01461a242f38ec",
-                                    "componentName": "task",
-                                    "text": "Writing tests covering business logic"
-                                },
-                                {
-                                    "key": "517d8ffe706c46e7809bb96a92a6bc2f",
-                                    "componentName": "task",
-                                    "text": "Refactoring old code using good programming practices"
                                 }
                             ]
                         },
@@ -262,11 +195,11 @@
                             "key": "a1909f19a56d41078b1cf4a001335e90",
                             "componentName": "sectionEntry",
                             "title": "Idealogic",
-                            "description": "Delivering solutions for Addvena - online pet food shop - and Oroox - Swiss metal industry company.",
+                            "description": "Programmer Delivering solutions for Addvena - online pet food shop - and Oroox - Swiss metal industry company.",
                             "date": "X 2018 - IX 2019",
                             "url": "https://oroox.com/en",
                             "position": ".NET Developer",
-                            "experience": "(1 year)",
+                            "experience": "Kraków (1 year)",
                             "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "tasks":
                             [
@@ -279,44 +212,24 @@
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
                                     "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
-                                },
-                                {
-                                    "key": "d4e696da645d47b48fe27630fb9b48f6",
-                                    "componentName": "task",
-                                    "title": "Estech Webcad",
-                                    "titleUrl": "http://estech-wizard.client.webcad.com/",
-                                    "text": " - Creating E-commerce solution and Authorization module based on OAuth2.0 and Microservices"
-                                },
-                                {
-                                    "key": "1b74bfcf08b7479fb6b127f124da6813",
-                                    "componentName": "task",
-                                    "title": "Vetiapp",
-                                    "titleUrl": "http://www.addvena.com/",
-                                    "text": " - adding payment system using ING Bank Śląski API widget"
-                                },
-                                {
-                                    "key": "2e42969955a74e6bb810d74691e37aee",
-                                    "componentName": "task",
-                                    "text": "Merging internal invoices system to Comarch Optima accounting system"
                                 }
                             ]
                         },
                         {
                             "key": "b1e7cae58d4a4c20997e7e669d6d1b19a",
                             "componentName": "sectionEntry",
-                            "title": "Capgemini",
-                            "description": "Technical support with French",
+                            "title": "Capgemini (project Rolls-Royce)",
+                            "description": "Technical Support Assistant with French",
                             "date": "XI 2016 - X 2018",
-                            "url": "",
-                            "position": "Customer service advisor",
-                            "experience": "(2 years)",
+                            "experience": "Kraków (2 years)",
+                            "url": "https://www.capgemini.com/",
                             "tasks":
                             [
                                 {
                                     "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
                                     "componentName": "task",
-                                    "text": "Anserwing calls in English and French"
-                                }                             
+                                    "text": "Anserwing calls in French and English (Montreal)"
+                                }                              
                             ]
                         }
                     ]
