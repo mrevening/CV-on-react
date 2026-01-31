@@ -174,13 +174,17 @@
                         {
                             "key": "299b32993bf147bd8f7f3dca1c9b70e3",
                             "componentName": "sectionEntry",
-                            "title": "Medius - AP automation solution",
+                            "title": "Medius",
                             "description": "Role: Software engineer (fullstack)",
                             "date": "VII 2022 - Now",
                             "url": "https://www.medius.com/",
                             "experience": "Kraków (3,5 years)",
                             "tasks":
                             [
+                                {
+                                    "componentName": "task",
+                                    "text": "Medius is AP automation solution - In house software with many customers worldwide, with extended CI/CD pipelines, unit and e2e tests (Selenium, Playwright), Azure cloud, code quality checks, and logs monitoring (Papertrail, Azure App Insights). Contains multiple modules (ERP integration, document management, workflow engine, Capture, Payment Procurement.) and it's own UI library."
+                                },
                                 {
                                     "componentName": "task",
                                     "text": "New Inbox: Lead development of a React-based inbox integrated with legacy system, building the architecture from scratch, mentoring a small frontend team, collaborating with business analysts and UX designers."
@@ -234,7 +238,7 @@
                                 {
                                     "key": "b48e0ff61eb7495f969d21cff078f163",
                                     "componentName": "task",
-                                    "text": "Primetals HMI: Developed new modules for a steel production management web application."
+                                    "text": "Primetals HMI: Developed steel production management Web Application."
                                 },
                                 {
                                     "key": "59f11505367a41d1b81a7dfc11f61f00",
@@ -257,14 +261,14 @@
                                 {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
-                                    "text": "Addvena: Modernized and expanded the e-commerce platform for a pet food retailer, introducing new features and improving performance."
+                                    "text": "Oroox: Microservice-based application for a Swiss metal industry client."
                                 },
                                 {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
-                                    "text": "Oroox: Contributed to the digital transformation of a Swiss metal industry client by developing custom modules and integrating business processes into a unified web solution."
+                                    "text": "Addvena: Modernized e-commerce platform for a pet food retailer."
                                 },
-                                  {
+                                {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
                                     "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
