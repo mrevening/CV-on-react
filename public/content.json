@@ -69,6 +69,41 @@
                             "key": "19b44cdee93846bf876a75fcd9586df0",
                             "componentName": "shortSectionEntry",
                             "description": ".NET / C#"
+                        },
+                        {
+                            "key": "bd0730cb3fd848899fa9e90d01b703c1",
+                            "componentName": "shortSectionEntry",
+                            "title": "Secondary tools:"
+                        },
+                                                {
+                            "key": "19b44cdee93846bf876a75fcd9586df1",
+                            "componentName": "shortSectionEntry",
+                            "description": "Github Copilot"
+                        },
+                        {
+                            "key": "19b44cdee93846bf876a75fcd9586df0",
+                            "componentName": "shortSectionEntry",
+                            "description": "Vim"
+                        },
+                        {
+                            "key": "bd0730cb3fd848899fa9e90d01b703c1",
+                            "componentName": "shortSectionEntry",
+                            "title": "Interests"
+                        },
+                                                {
+                            "key": "19b44cdee93846bf876a75fcd9586df1",
+                            "componentName": "shortSectionEntry",
+                            "description": "Functional programming"
+                        },
+                        {
+                            "key": "19b44cdee93846bf876a75fcd9586df0",
+                            "componentName": "shortSectionEntry",
+                            "description": "Unit testing"
+                        },
+                         {
+                            "key": "19b44cdee93846bf876a75fcd9586df0",
+                            "componentName": "shortSectionEntry",
+                            "description": "DDD"
                         }
                     ]
                 },
@@ -112,19 +147,20 @@
                         {
                             "key": "299b32993bf147bd8f7f3dca1c9b70e3",
                             "componentName": "sectionEntry",
-                            "title": "Medius",
-                            "description": "AP automation solution",
+                            "title": "Medius - AP automation solution",
+                            "description": "Role: Software engineer (fullstack)",
                             "date": "VII 2022 - Now",
-                            "url": "",
-                            "position": "React + .NET Developer",
-                            "experience": "(3,5 years)",
-                            "stack": "React, TypeScript, .NET Core, Microsoft SQL Server",
+                            "url": "https://www.medius.com/",
+                            "experience": "Kraków (3,5 years)",
                             "tasks":
                             [
                                 {
-                                    "key": "ba40a2cce010494f863e78b6d78dc95d",
                                     "componentName": "task",
-                                    "text": "Role: software developer"
+                                    "text": "Project: New Inbox. Role: lead frontend developer with React. Tasks: lead small frontend team, communicate with BA nad UX, create project from a scratch and integrate with existing solution."
+                                },
+                                {
+                                    "componentName": "task",
+                                    "text": "Project: Procurement. Role: .NET Developer with React. Tasks: build new functionalities"
                                 },
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
@@ -137,28 +173,23 @@
                             "key": "299b32993bf147bd8f7f3dca1c9b70e2",
                             "componentName": "sectionEntry",
                             "title": "KPMG",
-                            "description": "Extending App which generate tax returns in Swiss cantons.",
-                            "date": "VI 2020 - Now",
+                            "description": "Role: .NET Developer",
+                            "date": "VI 2020 - V 2022",
                             "url": "https://home.kpmg/pl/pl/home.html",
                             "position": ".NET Developer",
-                            "experience": "(2 years)",
+                            "experience": "Kraków (2 years)",
                             "stack": ".NET Framework, Microsoft SQL Server, TypeScript",
                             "tasks":
                             [
                                 {
                                     "key": "ba40a2cce010494f863e78b6d78dc95d",
                                     "componentName": "task",
-                                    "text": "Role: .NET Developer"
+                                    "text": "Project: Swiss Tax Calculator: Extending App which generate tax returns in Swiss cantons. Covering taxes business logic in graph structure"
                                 },
                                 {
                                     "key": "2187ac86170e4db28de71c6dacd19ff7",
                                     "componentName": "task",
                                     "text": "Stack: .NET Framework, Microsoft SQL Server, TypeScript"
-                                },
-                                {
-                                    "key": "9f420ea7506146598f2c4f5c0720cb7a",
-                                    "componentName": "task",
-                                    "text": "Covering taxes business logic in graph structure"
                                 }
                             ]
                         },
@@ -166,49 +197,47 @@
                             "key": "b1e7cae58d4a4c20997e7e669d6d1b19",
                             "componentName": "sectionEntry",
                             "title": "Primetals Technologies",
-                            "description": "Developing Web Application which manages steel production.",
+                            "description": "Role: .NET Developer",
                             "date": "X 2019 - V 2020",
                             "url": "https://www.primetals.com/",
-                            "position": ".NET Developer",
-                            "experience": "(6 months)",
-                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
+                            "position": "Role: .NET Developer",
+                            "experience": "Kraków (6 months)",
                             "tasks":
                             [
                                 {
-                                    "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
+                                    "key": "b48e0ff61eb7495f969d21cff078f163",
                                     "componentName": "task",
-                                    "text": "Role: .NET Developer"
+                                    "text": "Project: Primetals. Tasks: Creating new functionalities in ironworks HMI tool - Web Application which manages steel production"
                                 },
                                 {
                                     "key": "59f11505367a41d1b81a7dfc11f61f00",
                                     "componentName": "task",
                                     "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
-                                },
-                                {
-                                    "key": "b48e0ff61eb7495f969d21cff078f163",
-                                    "componentName": "task",
-                                    "text": "Creating new functionalities in ironworks HMI tool"
-                                }                              
+                                }                            
                             ]
                         },
                         {
                             "key": "a1909f19a56d41078b1cf4a001335e90",
                             "componentName": "sectionEntry",
                             "title": "Idealogic",
-                            "description": "Programmer Delivering solutions for Addvena - online pet food shop - and Oroox - Swiss metal industry company.",
+                            "description": "Role: .NET Developer",
                             "date": "X 2018 - IX 2019",
                             "url": "https://oroox.com/en",
-                            "position": ".NET Developer",
+                            "position": "",
                             "experience": "Kraków (1 year)",
-                            "stack": ".NET Framework, Microsoft SQL Server, JavaScript",
                             "tasks":
                             [
                                 {
-                                    "key": "d28f4f6d2a334f9a8782e20b7a8bc684",
+                                    "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
-                                    "text": "Role: .NET Developer"
+                                    "text": "Project: Addvena. Tasks: Extend online pet food shop."
                                 },
                                 {
+                                    "key": "18f28cccff3d4b36807f80b25b8a7a60",
+                                    "componentName": "task",
+                                    "text": "Project: Oroox - Swiss metal industry company."
+                                },
+                                  {
                                     "key": "18f28cccff3d4b36807f80b25b8a7a60",
                                     "componentName": "task",
                                     "text": "Stack: .NET Framework, Microsoft SQL Server, JavaScript"
@@ -218,8 +247,8 @@
                         {
                             "key": "b1e7cae58d4a4c20997e7e669d6d1b19a",
                             "componentName": "sectionEntry",
-                            "title": "Capgemini (project Rolls-Royce)",
-                            "description": "Technical Support Assistant with French",
+                            "title": "Capgemini",
+                            "description": "Role: Technical Support Assistant with French",
                             "date": "XI 2016 - X 2018",
                             "experience": "Kraków (2 years)",
                             "url": "https://www.capgemini.com/",
@@ -228,7 +257,7 @@
                                 {
                                     "key": "c8763ebd4f6c47d9b9541c8b72cc8aec",
                                     "componentName": "task",
-                                    "text": "Anserwing calls in French and English (Montreal)"
+                                    "text": "Project: Rolls-Royce. Tasks: Anserwing calls in French and English"
                                 }                              
                             ]
                         }
